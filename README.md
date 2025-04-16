@@ -1,4 +1,4 @@
-### 🏠 Housing Price Prediction App (Streamlit)
+# 🏠 Housing Price Prediction App (Streamlit)
 
 This Streamlit web app predicts median housing prices in California based on various housing features. It uses a Random Forest Regressor trained on a cleaned version of the California housing dataset.
 
